@@ -1,0 +1,15 @@
+.list {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.error {
+  color: #ff4444;
+  font-size: 18px;
+  padding: 20px;
+  background-color: #ffe6e6;
+  border-radius: 8px;
+  border: 1px solid #ff4444;
+}
